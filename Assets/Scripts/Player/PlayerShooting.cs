@@ -4,6 +4,8 @@ using UnityEngine;
 
 public class PlayerShooting : MonoBehaviour {
 
+    
+
     public GameObject bullet;
     public float timer;
     public float _currentTime;
